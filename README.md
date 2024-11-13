@@ -1,0 +1,2 @@
+# omino
+ FigmaPlugin
